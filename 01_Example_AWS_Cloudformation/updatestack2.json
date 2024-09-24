@@ -1,0 +1,13 @@
+{
+  "Resources": {
+    "platzilab": {
+      "Type": "AWS::S3::Bucket",
+      "Properties": {
+        "BucketName": "ricardo-mi-primer-cloudformation-123456789"
+      }
+    },
+    "platzilabricardo": {
+      "Type": "AWS::S3::Bucket"
+    }
+  }
+}
